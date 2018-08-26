@@ -1,5 +1,5 @@
 # GoalPost_App
-#GoalPost App to save and complet your goals
+# GoalPost App to save and complet your goals
 
 1.Init Project
 
