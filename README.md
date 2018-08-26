@@ -1,5 +1,6 @@
 # GoalPost_App
 # GoalPost App to save and complet your goals
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/39617746/44625491-8e2f5080-a90b-11e8-9de4-7cc3e1ab8b2d.gif)
 
 1.Init Project
 
@@ -20,4 +21,3 @@
 9.Save, fetch, delete & add goalProgress in CoreData stack
 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/39617746/44625491-8e2f5080-a90b-11e8-9de4-7cc3e1ab8b2d.gif)
