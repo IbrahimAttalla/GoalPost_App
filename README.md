@@ -1,20 +1,20 @@
 # GoalPost_App
 #GoalPost App to save and complet your goals
 
-Init Project
+1.Init Project
 
-Goals VC created
+2.Goals VC created
 
-Goals Cell created
+3.Goals Cell created
 
-Added Core Data Model
+4.Added Core Data Model
 
-Displaying cells in TableView
+5.Displaying cells in TableView
 
-CreateGoalVC & custom transition like NavController
+6.CreateGoalVC & custom transition like NavController
 
-UIView & UIButton Extensions
+7.UIView & UIButton Extensions
 
-FinishGoalVC & Passing Data
+8.FinishGoalVC & Passing Data
 
-Save, fetch, delete & add goalProgress in CoreData stack
+9.Save, fetch, delete & add goalProgress in CoreData stack
